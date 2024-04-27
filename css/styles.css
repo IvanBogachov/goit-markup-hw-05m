@@ -330,6 +330,7 @@ main {
 .overlay-thumb {
     position: relative;
     overflow: hidden;
+    overlay: auto;
 }
 .overlay-text {
     position: absolute;
