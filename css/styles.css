@@ -35,6 +35,9 @@ img {
     display: block;
     max-width: 100%;
 }
+input {
+    font-family: inherit;
+}
 .container {
     width: 1158px;
     padding: 0 15px;
